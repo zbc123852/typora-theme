@@ -1,6 +1,6 @@
 # Typora Theme
 
-基于 [Claude Typora Theme](https://theme.typora.io/theme/Claude/) 定制的 Typora Markdown 主题。:contentReference[oaicite:0]{index=0}
+基于 [Claude Typora Theme](https://theme.typora.io/theme/Claude/) 定制的 Typora Markdown 主题。
 
 ## 简介
 
